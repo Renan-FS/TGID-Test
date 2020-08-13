@@ -1,0 +1,16 @@
+.row{
+  align-items: center;
+  justify-content: center;
+}
+
+
+footer {
+  background-color: #AAA;
+  padding: 25px;
+  position: fixed;
+  bottom: 0;
+}
+
+input{
+  text-align: center;
+}
